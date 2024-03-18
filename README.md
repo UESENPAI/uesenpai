@@ -1,10 +1,14 @@
 # Greetings 👋
 This is a personal Git repository. Thank you for visiting, but there is nothing to display at the moment.
 
-## Language Skills
+## Languages
 ![Korean](https://img.shields.io/badge/Korean-Native-green?style=for-the-badge)
 ![Japanese](https://img.shields.io/badge/Japanese-Advanced-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Studying
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -17,7 +21,6 @@ This is a personal Git repository. Thank you for visiting, but there is nothing 
 
 ## Interests
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
