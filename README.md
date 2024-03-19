@@ -1,5 +1,5 @@
 # Greetings 👋
-This is a personal Git repository. Thank you for visiting, but there is nothing to display at the moment.
+This is a personal Git repository. Thank you for visiting, but there is nothing to show you.
 
 ## Languages
 ![Korean](https://img.shields.io/badge/Korean-Native-green?style=for-the-badge)
