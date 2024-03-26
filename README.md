@@ -16,11 +16,11 @@ This is a personal Git repository. Thank you for visiting, but there is nothing 
 ![Advanced Statistics](https://img.shields.io/badge/Advanced_Statistics-4CABCE?style=for-the-badge&logo=NumPy)
 ![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-004B87?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=OpenCV)
+![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-FF7C00?style=for-the-badge)
 
 ## Interests
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
