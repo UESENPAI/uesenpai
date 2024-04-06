@@ -11,7 +11,6 @@ This is a personal Git repository. Thank you for visiting, but there is nothing 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-D00000?style=for-the-badge&logo=Keras)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=OpenCV)
-![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-FF7C00?style=for-the-badge)
 
 ## Interests
