@@ -2,9 +2,6 @@
 This is a personal Git repository. Thank you for visiting, but there is nothing to show you.
 
 ## Languages
-![Korean](https://img.shields.io/badge/Korean-Native-green?style=for-the-badge)
-![Japanese](https://img.shields.io/badge/Japanese-Advanced-red?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
