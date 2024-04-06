@@ -10,8 +10,6 @@ This is a personal Git repository. Thank you for visiting, but there is nothing 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-D00000?style=for-the-badge&logo=Keras)
-![Advanced Statistics](https://img.shields.io/badge/Advanced_Statistics-4CABCE?style=for-the-badge&logo=NumPy)
-![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-004B87?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=OpenCV)
 ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-FF7C00?style=for-the-badge)
