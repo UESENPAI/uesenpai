@@ -1,5 +1,5 @@
 # Greetings 👋
-This is a personal Git repository. Thank you for visiting, but there is nothing to show you.
+This is a personal Git repository. Thank you for visiting, but there is nothing to show you. Now GET THE FUCK OUT 
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
