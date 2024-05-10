@@ -12,6 +12,7 @@ This is a personal Git repository. Thank you for visiting, but there is nothing 
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-D00000?style=for-the-badge&logo=Keras)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=OpenCV)
 ![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-FF7C00?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-44A600?style=for-the-badge)
 
 ## Interests
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
