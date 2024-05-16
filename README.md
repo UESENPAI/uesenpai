@@ -1,4 +1,4 @@
-# Welcome to My GitHub Repository 👋
+# Greetings 👋
 
 Thank you for visiting my personal Git repository. But there is nothing to show you. Now GET THE FUCK OUT OF HERE
 
