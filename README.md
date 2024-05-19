@@ -12,6 +12,7 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 ## 📚 Currently Studying
 ![PS Algorithms](https://img.shields.io/badge/Algorithms-44A600?style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
 
 ## 🌱 Interests
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -24,4 +25,4 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 
 ---
 
-Thank you for stopping by! Have a great day! 😊
+
