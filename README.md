@@ -5,15 +5,10 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 ---
 
 ## 🛠️ Languages
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=py, cpp, cs)](https://skillicons.dev)
 
 ## 📚 Currently Studying
-![PS Algorithms](https://img.shields.io/badge/Algorithms-44A600?style=for-the-badge)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
+[![Studying](https://skillicons.dev/icons?i=unreal, unity,)](https://skillicons.dev)
 
 ## 🌱 Interests
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
