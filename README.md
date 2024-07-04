@@ -5,11 +5,10 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 ---
 
 ## 🛠️ Languages
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs)](https://skillicons.dev)
 
 ## 📚 Currently Studying
-[![My Skills](https://skillicons.dev/icons?i=unreal,unity](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity)](https://skillicons.dev)
 
 ## 🌱 Interests
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
