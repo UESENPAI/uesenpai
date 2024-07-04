@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Thank you for visiting my personal Git repository. But there is nothing to show you. Now GET THE FUCK OUT OF HERE!!!
+Thank you for visiting my personal Git repository. But there is nothing to show you. Now please press ( ALT + ← ) ASAP!
 
 ---
 
