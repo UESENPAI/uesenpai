@@ -14,10 +14,10 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 [![My Skills](https://skillicons.dev/icons?i=css,eclipse,html,java,js,jquery,pytorch,spring,sklearn&perline=10)](https://skillicons.dev)
 
 ## 🌱 Experienced
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,c,debian,docker,figma,kali,linux,lua,matlab,maven,mint,mongodb,mysql,npm,opencv,php,powershell,pycharm,r,regex,ruby,sublime,selenium,tensorflow,threejs,ubuntu,vim,vscode,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,c,debian,docker,figma,kali,linux,lua,matlab,maven,mint,mongodb,mysql,npm,opencv,php,powershell,ps,pycharm,r,regex,ruby,sublime,selenium,tensorflow,threejs,ubuntu,vim,vscode,&perline=10)](https://skillicons.dev)
 
 ## 📚 Other tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,github,obsidian,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,github,obsidian&perline=10)](https://skillicons.dev)
 
 ---
 
