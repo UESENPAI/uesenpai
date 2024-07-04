@@ -13,7 +13,7 @@ Thank you for visiting my personal Git repository. But there is nothing to show 
 ## 💼 Working
 [![My Skills](https://skillicons.dev/icons?i=css,eclipse,html,java,js,jquery,spring&perline=10)](https://skillicons.dev)
 
-## 🌱 Experiencs
+## 🌱 Experiences
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,c,debian,docker,figma,kali,linux,lua,matlab,maven,mint,mongodb,mysql,npm,opencv,php,powershell,ps,pycharm,r,regex,ruby,sublime,selenium,threejs,ubuntu,vim,vscode,&perline=10)](https://skillicons.dev)
 
 ## 📚 Miscellaneous
