@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Thank you for visiting my personal Git repository. But there is nothing to show you. Now please get the fuck out of here!
+Thank you for visiting my personal Git repository. But there is nothing to show you. ㅗ(^o^)ㅗ
 
 ---
 
