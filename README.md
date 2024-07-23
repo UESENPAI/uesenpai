@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Our Business Is Life Itself
+Thank you for visiting.
 
 ---
 
