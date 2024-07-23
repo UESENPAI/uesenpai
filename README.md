@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Thank you for visiting my personal Git repository. But there is nothing to show you. ㅗ(^o^)ㅗ
+Our Business Is Life Itself
 
 ---
 
