@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Thank you for visiting.
+for when you gaze long into the abyss. The abyss gazes also into you. And now [b]you[/b] are gazing into that abyss.
 
 ---
 
