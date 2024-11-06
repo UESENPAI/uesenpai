@@ -1,6 +1,6 @@
 # Greetings 👋
 
-I am newbie Unreal Engine progammer.
+I am Unreal Engine coder who interested in sim2real.
 
 ---
 
