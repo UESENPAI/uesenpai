@@ -1,6 +1,7 @@
 # Greetings 👋
 
-I am Unreal Engine coder who interested in sim2real.
+Going to grad school was the worst mistake of my life
+
 
 ---
 
