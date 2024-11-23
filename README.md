@@ -2,6 +2,17 @@
 
 Going to grad school was the worst mistake of my life
 
+I am interested in...
+
+sim2real
+Reinforcement Learning(RL)
+Unreal Engine / Unity
+Computer Graphics
+Multi-Agent system(MAS)
+Multi-Agent Reinforcement Learning(RL)
+Generative Agents
+Communication, Dynamic Adaption, Emergent Behavior, Co-op in MAS
+Social Dynamics and Group Behavior in AI Agents
 
 ---
 
