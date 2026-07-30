@@ -16,7 +16,7 @@ Welcome to the laboratory.
 
 I build strange systems, questionable prototypes, and interactive experiments designed to answer one simple question:
 
-> What happens when we are forced to choose
+> What happens when we are forced to choose?
 
 Most of my projects involve abnormal conditions.
 
