@@ -28,7 +28,7 @@ Probably.
 
 ## ☠️ Current Experiments
 
-* Death game mechanics
+* Game Theory
 * Hidden rules and asymmetric information
 * High-risk decision systems
 * Psychological pressure experiments
