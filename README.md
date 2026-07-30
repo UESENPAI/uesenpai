@@ -31,10 +31,7 @@ Probably.
 * Game Theory
 * Hidden rules and asymmetric information
 * High-risk decision systems
-* Psychological pressure experiments
 * Interactive simulations
-* Suspicious prototypes
-* Unnecessarily complicated buttons
 
 ---
 
