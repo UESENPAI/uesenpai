@@ -1,11 +1,11 @@
 <h1 align="center">Greetings, Test Subject 👋</h1>
 
 <h3 align="center">
-  Mad Scientist · Death Game Architect · Professional Rule Breaker
+  Mad Scientist
 </h3>
 
 <p align="center">
-  <i>Designing unfair games, impossible choices, and systems that were probably better left unopened.</i>
+  <i>Designing games and systems that were probably better left unopened.</i>
 </p>
 
 ---
@@ -18,7 +18,7 @@ I build strange systems, questionable prototypes, and interactive experiments de
 
 > What happens when the rules stop being fair?
 
-Most of my projects involve abnormal mechanics, hidden conditions, psychological traps, and participants who definitely should have read the terms and conditions.
+Most of my projects involve abnormal conditions.
 
 Everything is under control.
 
@@ -43,9 +43,8 @@ Probably.
 ```text
 1. Create a harmless-looking system
 2. Add several hidden rules
-3. Introduce an impossible decision
+3. Introduce some decisions
 4. Observe the participants
-5. Deny responsibility
 ```
 
 ---
@@ -67,7 +66,7 @@ NEXT EXPERIMENT   : INITIALIZING...
 ```text
 Every game needs rules.
 Every rule needs an exception.
-Every exception needs a victim.
+Every exception needs a theory.
 ```
 
 ---
